@@ -21,7 +21,7 @@ Este projeto utiliza **algoritmos genéticos** para gerar e evoluir uma imagem a
 
 | Antes | Depois |
 |-------|--------|
-| ![Antes](ia2\gen_39000.png) | ![Depois](ia2\gen_2005000.png) |
+| ![Antes](ia2/gen_39000.png) | ![Depois](ia2/gen_2005000.png) |
 | Geração inicial — formas aleatórias | Geração final — imagem evoluída |
 
 ---
