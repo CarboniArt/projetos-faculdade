@@ -1,0 +1,20 @@
+1)
+csv.reader lê cada linha do CSV como uma lista de valores.
+csv.DictReader lê cada linha como um dicionário, onde as chaves são os cabeçalhos da primeira linha do arquivo. 
+
+2)
+- Fazer a requisição HTTP com requests
+- Parsear o HTML com BeautifulSoup
+- Usar find_all() para buscar os elementos desejados
+
+3)
+APIs: Dados estruturados (JSON/XML), uso autorizado, estável, documentada. Pode ter limites de requisições, exige autenticação, nem sempre disponível
+Web Scraping: Funciona em qualquer site, sem necessidade de chave ou permissão. Frágil (quebra se o HTML mudar), pode violar termos de uso, mais complexo
+
+
+4)
+Proteger chaves de API é fundamental porque elas funcionam como senhas de acesso aos serviços. Se forem expostas podem serem utilizadas sem seu consentimento.
+Usar variáveis de ambiente e nunca escrever a chave diretamente no código.
+
+5)
+A Streaming API abre uma conexão persistente com o Twitter e entrega os tweets no momento em que são publicados, conforme os filtros definidos. Portanto escolheria ela.
