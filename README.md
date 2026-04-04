@@ -6,6 +6,6 @@
 
 *Repositório com todos os projetos e atividades organizados por matéria.*
 
-**Universidade Estadual do Centro-Oeste — UNICENTRO**
+**Universidade Estadual do Centro-Oeste - UNICENTRO**
 
 </div>
